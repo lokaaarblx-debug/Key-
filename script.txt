@@ -1,5 +1,3 @@
-local PASSWORD="ccAdmMmv@Panel#2025!"
-local PASSWORD_ENABLED=false
 local Players=game:GetService("Players")
 local UserInputService=game:GetService("UserInputService")
 local TweenService=game:GetService("TweenService")
